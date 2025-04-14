@@ -195,7 +195,70 @@
 // } else if (favourite === 9) {
 //     console.log("9 is also a cool number1");
 // } else {
-//     console.log("Number is neither 23 or 7.");
+//     console.log("Number is neither 23 nor 7.");
 // }
 
 // if (favourite !== 23) console.log("Why not 23?");
+
+// const hasDriversLicense = true;
+// const hasGoodVision = true;
+//
+// console.log(hasDriversLicense && hasGoodVision);
+// console.log(hasDriversLicense || hasGoodVision);
+// console.log(!hasDriversLicense);
+//
+// if (hasDriversLicense && hasGoodVision) {
+//     console.log('Sarah is able to drive!');
+// } else {
+//     console.log('Someone else should drive...');
+// }
+//
+// const isTired = true;
+// console.log(hasDriversLicense && hasGoodVision && !isTired);
+
+// const day = 'monday';
+//
+// switch (day) {
+//     case 'monday':
+//         console.log('Plan course structure');
+//         console.log('Go to coding meetup');
+//         break;
+//     case 'tuesday':
+//         console.log('Prepare theory videos');
+//         break;
+//     case 'wednesday':
+//     case 'thursday':
+//         console.log('Write code examples');
+//         break;
+//     case 'friday':
+//         console.log('Record videos');
+//         break;
+//     case 'saturday':
+//     case 'sunday':
+//         console.log('Enjoy the weekend :D');
+//         break;
+//     default:
+//         console.log('Not a valid day!');
+// }
+//
+// if (day === 'monday') {
+//     console.log('Plan course structure');
+//     console.log('Go to coding meetup');
+// } else if (day === 'tuesday') {
+//     console.log('Prepare theory videos');
+// } else if (day === 'wednesday' || day === 'thursday') {
+//     console.log('Write code examples');
+// } else if (day === 'friday') {
+//     console.log('Record videos');
+// } else if (day === 'saturday' || day === 'thursday') {
+//     console.log('Enjoy the weekend :D');
+// } else {
+//     console.log('Not a valid day!');
+// }
+
+// const age = 15;
+// age >= 18 ? console.log("I like to drink wine") : console.log("I like to drink water");
+//
+// let drink = age >= 18 ? "wine" : "water";
+// console.log(drink);
+
