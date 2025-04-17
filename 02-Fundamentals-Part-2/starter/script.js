@@ -45,3 +45,39 @@
 // console.log(age2);
 //
 // console.log(age1, age2);
+
+// Arrow function
+// const calcAge3 = birthYear => 2037 - birthYear;
+// const age3 = calcAge3(1991);
+// console.log(age3);
+//
+// const yearsUntilRetirement = (birthYear, firstName) => {
+//     const age = 2037 - birthYear;
+//     return `${firstName} retires in ${65 - age} years`;
+// }
+//
+// console.log(yearsUntilRetirement(1991, 'Jonas'));
+// console.log(yearsUntilRetirement(1980, 'Bob'));
+
+// function cutFruitPieces(fruit) {
+//     return fruit * 4;
+// }
+//
+// function fruitProcessor(apples, oranges) {
+//     return `Juice with ${cutFruitPieces(apples)} pieces of apple and ${cutFruitPieces(oranges)} pieces of orange`;
+// }
+//
+// console.log(fruitProcessor(2, 3));
+
+
+
+
+
+
+
+
+
+
+
+
+
